@@ -256,5 +256,273 @@ Date | Particulars    | Postage | Stationery | Misc. | Total
 05/04 | Pens & Paper   |         | 50         |       | 50
 06/04 | Courier Charge | 30      |            |       | 30
 ```
+# 📘 Detailed Accounting Notes (Comprehensive Version)
 
 ---
+
+## **Module-IV: Final Accounts – Trading, Profit & Loss Account and Balance Sheet**
+
+### 🔹 Introduction
+
+Final accounts are prepared at the end of an accounting period to determine the financial performance and position of a business. The three key components are:
+
+* **Trading Account**
+* **Profit and Loss Account**
+* **Balance Sheet**
+
+These are prepared after the Trial Balance and adjusting entries are made.
+
+---
+
+### 🧾 **1. Trading Account**
+
+#### 📌 Purpose:
+
+To determine the **gross profit or gross loss** during an accounting period.
+
+#### 📌 Formula:
+
+**Gross Profit/Loss = Net Sales - Cost of Goods Sold (COGS)**
+
+#### 📌 Items on Trading Account:
+
+* **Debit Side**:
+
+  * Opening stock
+  * Purchases (less purchase returns)
+  * Direct expenses (e.g., wages, carriage inwards)
+
+* **Credit Side**:
+
+  * Sales (less sales returns)
+  * Closing stock
+
+#### 📌 Format:
+
+```
+Trading Account for the year ended...
+Dr.                          | Cr.
+----------------------------|-----------------------------
+To Opening Stock            | By Sales
+To Purchases                | Less: Sales Returns
+Less: Purchase Returns      | By Closing Stock
+To Direct Expenses          |
+To Gross Profit c/d         |
+----------------------------|-----------------------------
+                            | Total
+```
+
+---
+
+### 💰 **2. Profit and Loss Account**
+
+#### 📌 Purpose:
+
+To calculate the **net profit or net loss** by comparing indirect incomes and expenses.
+
+#### 📌 Formula:
+
+**Net Profit/Loss = Gross Profit + Other Incomes – Indirect Expenses**
+
+#### 📌 Items:
+
+* **Debit Side**:
+
+  * Salaries
+  * Rent
+  * Depreciation
+  * Office expenses
+
+* **Credit Side**:
+
+  * Commission received
+  * Interest earned
+  * Other income
+
+#### 📌 Format:
+
+```
+Profit & Loss Account for the year ended...
+Dr.                          | Cr.
+----------------------------|-----------------------------
+To Salaries                 | By Gross Profit b/d
+To Rent                     | By Commission Received
+To Depreciation             | By Interest
+To Net Profit c/d           |
+----------------------------|-----------------------------
+                            | Total
+```
+
+---
+
+### 📊 **3. Balance Sheet (as per Revised Schedule VI)**
+
+#### 📌 Purpose:
+
+To show the **financial position** of the company on a specific date.
+
+#### 📌 Format:
+
+Under Revised Schedule VI of Companies Act, the balance sheet is divided into:
+
+* **Equity and Liabilities**
+* **Assets**
+
+#### 📌 Format:
+
+```
+Balance Sheet as at ...
+A. Equity and Liabilities:
+   1. Shareholder’s Funds
+      - Share Capital
+      - Reserves and Surplus
+   2. Non-Current Liabilities
+      - Long-term borrowings
+   3. Current Liabilities
+      - Trade payables
+      - Short-term borrowings
+
+B. Assets:
+   1. Non-Current Assets
+      - Fixed assets (Tangible/Intangible)
+      - Long-term investments
+   2. Current Assets
+      - Inventories
+      - Trade receivables
+      - Cash and bank balances
+```
+
+#### 📌 Notes:
+
+* Assets = Liabilities + Owner’s Equity
+* All figures must be classified and presented as per prescribed format.
+
+---
+
+## **Module-V: Company Accounts – Shares and Debentures**
+
+### 🧩 **1. Introduction to Shares**
+
+Shares represent ownership in a company and entitle the holder to a part of the profits.
+
+### 📌 **Characteristics of Shares**
+
+* Evidence of ownership
+* Transferable
+* Dividend entitlement
+* Limited liability
+* Voting rights (in case of equity shares)
+
+### 📌 **Types of Shares**
+
+* **Equity Shares:**
+
+  * Carry voting rights
+  * Riskier but high return potential
+* **Preference Shares:**
+
+  * Fixed dividend
+  * Preference over equity shareholders in dividend and capital repayment
+
+### 📘 **Accounting Entries for Issue of Shares**
+
+1. On Application:
+
+```
+Bank A/c              Dr.
+   To Share Application A/c
+```
+
+2. On Allotment:
+
+```
+Share Application A/c Dr.
+   To Share Capital A/c
+Bank A/c              Dr.
+   To Share Allotment A/c
+```
+
+### 🧾 **2. Accounting for Debentures**
+
+Debentures are instruments used by companies to borrow long-term funds at a fixed interest rate.
+
+### 📌 **Features of Debentures**
+
+* Fixed interest
+* No voting rights
+* Redeemable at maturity
+* Secured or unsecured
+
+### 📌 **Types of Debentures**
+
+* **Secured and Unsecured**
+* **Convertible and Non-Convertible**
+* **Redeemable and Irredeemable**
+* **Registered and Bearer**
+
+### 📘 **Accounting Entries for Debentures**
+
+1. On issue of debentures:
+
+```
+Bank A/c                Dr.
+   To Debentures A/c
+```
+
+2. On interest payment:
+
+```
+Interest on Debentures A/c Dr.
+   To Bank A/c
+```
+
+
+
+## **Module-VI: Accounting Software Packages – Introduction and Tally**
+
+### 💾 **1. Introduction to Accounting Software**
+
+Accounting software helps organizations to maintain systematic records, generate reports, and comply with tax laws efficiently.
+
+### 📌 **Need for Accounting Software**
+
+* Minimizes manual errors
+* Enhances speed and accuracy
+* Simplifies tax compliance
+* Automates report generation
+
+### 🛠️ **2. Scope of Accounting Software in Organizations**
+
+* Financial accounting
+* Inventory management
+* Payroll processing
+* GST return filing
+* Multi-user and multi-location access
+
+### 💻 **3. Tally Software**
+
+Tally is one of the most widely used ERP-based accounting software in India.
+
+### 📌 **Key Features of Tally:**
+
+* Supports multi-currency and multi-location
+* Generates GST-ready invoices
+* Automates ledgers, trial balance, and final accounts
+* Allows inventory tracking
+* Facilitates statutory compliance (TDS, GST, VAT)
+
+### 📘 **Basic Functional Areas of Tally:**
+
+* Company creation
+* Ledger creation
+* Voucher entry
+* Display and print reports
+* Backup and restore
+
+### 📈 **Advantages of Using Tally:**
+
+* User-friendly interface
+* Fast and reliable
+* Cloud-enabled data access (in newer versions)
+* Real-time data update across departments
+
